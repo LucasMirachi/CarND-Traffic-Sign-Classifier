@@ -1,15 +1,5 @@
 # **Traffic Sign Recognition** 
 
-[//]: # (Image References)
-[perceptron]: ./Images_Writeup/perceptron.png "Perceptron"
-[perceptron2]: ./Images_Writeup/perceptron2.png "Perceptron2"
-[step-sigmoid]: ./Images_Writeup/step-sigmoid.png "step-sigmoid"
-[discrete-continuous]: ./Images_Writeup/discrete-continuous.png "discrete-continuous"
-[perceptron-step-sigmoid]: ./Images_Writeup/perceptron-step-sigmoid.png "perceptron-step-sigmoid"
-[maximum-likelihood]: ./Images_Writeup/maximum-likelihood.png "maximum-likelihood"
-[cross-entropy]: ./Images_Writeup/cross-entropy.png "cross-entropy"
-[softmax]: ./Images_Writeup/softmax.png "softmax"
-
 ## Writeup
 
 ---
@@ -48,7 +38,7 @@ The goals / steps of this project are the following:
 
 #### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. You can use this template as a guide for writing the report. The submission includes the project code.
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/LucasMirachi/CarND-Traffic-Sign-Classifier/blob/main/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
